@@ -23,6 +23,9 @@ The javascript is responsible for creating a canvas on the HTML page and initial
 - Clone this project
 - Run with browser
 
+### Play
+
+- Click here to run live <a href="https://eduardotks.github.io/javascript-shaders-glsl-3d/heart.html">click</a>
 
 ### Image
 
