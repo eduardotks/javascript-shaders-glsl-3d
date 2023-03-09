@@ -6,7 +6,7 @@ This project is a simple example of how to use shaders in javascript with glsl. 
 
 ### How it works
 
-The javascript is responsible for creating a canvas on the HTML page and initializing the WebGL context. Then, there are the shaders in the form of strings, which are used to render the heart. These shaders are written in the GLSL language, which is specifically designed to work with 3D graphics. However, these shaders are sent to the GPU through WebGL calls from JavaScript.
+The javascript is responsible for creating a canvas on the HTML page and initializing the WebGL context. Then, there are the shaders in the form of strings, which are used to render the heart. These shaders are written in the GLSL, which is specifically designed to work with 3D graphics. However, these shaders are sent to the GPU through WebGL calls from JavaScript.
 
 ### Technologies/Tools
 
