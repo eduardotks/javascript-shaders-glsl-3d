@@ -2,7 +2,7 @@
 
 ### Description
 
-- This project is a simple example of how to use shaders in javascript with glsl. The example is a 3D heart that is animated with a glow effect. The heart is created with a quadratic bezier curve formula and a heart formula from mathworld wolfram. The glow effect was created with shadertoy examples. 
+- This project is a simple example of how to use shaders in javascript with glsl. The example is a 3D heart that is animated with a glow effect. The heart is created with a quadratic bezier curve formula and a heart formula from mathworld wolfram. The glow effect was created with shadertoy examples.
 
 ### How it works
 
@@ -10,19 +10,17 @@ The javascript is responsible for creating a canvas on the HTML page and initial
 
 ### Technologies/Tools
 
-- JavaScript 
+- JavaScript
 - HTML 5
 - CSS 3
 - Quadratic Bezier Curve Formula - <a href="https://www.shadertoy.com/view/MlKcDD">Show</a>
 - Mathworld Wolfram Heart Formula - <a href="http://mathworld.wolfram.com/HeartCurve.html">Show</a>
 - Glow Effect - <a href="https://www.shadertoy.com/view/3s3GDn">Show</a>
 
-
 ### Instalation
 
 - Clone this project
 - Run with browser
-
 
 ### Image
 
